@@ -27,7 +27,5 @@ The application functionality documentation can be accessed at this link: [Trell
 - **Lombok**
 - **Spring Security with JWT**
 
-## GitHub Repository
-
-You can access the code on my GitHub, go check it out: [GitHub](https://github.com/leandrobirth)
+## Project developed during the course ONE ( Oracle Next Education + Alura ) - 2024 ##
 
